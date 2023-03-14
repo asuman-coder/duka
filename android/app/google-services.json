@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "740547967154",
+    "project_id": "asumanm-duka",
+    "storage_bucket": "asumanm-duka.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740547967154:android:e80563d0e3509ad44071ab",
+        "android_client_info": {
+          "package_name": "com.asumanm.duka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740547967154-jmmd51deq2e8f36iafu45jqi5bvnmrs8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqht3vYQ3mr0IVU57qThMiePQe8ijmWS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740547967154-jmmd51deq2e8f36iafu45jqi5bvnmrs8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
